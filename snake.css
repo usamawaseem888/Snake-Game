@@ -1,0 +1,46 @@
+#container{
+height: 400px;
+width: 800px;
+margin: auto;
+border: 10px solid;
+
+}
+#heading{
+ text-align: center;
+ font-family: 'Yuji Boku', serif;
+}
+#b{
+   text-align: center;
+}
+#b3{
+    text-align: center;
+}
+
+
+
+#reset{
+    height: 70px;
+    width: 100px;
+    border-radius: 10px;
+    border: 3px solid;
+    font-size: 3ch;
+    text-align: center;
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ background-color: #a19595;
+ box-shadow: 0 10px  #454343;
+
+}
+#reset:active{
+box-shadow: 0 5px  #454343;
+transform: translateY(5px);
+}
+#score{
+    text-align: center;
+ font-family: 'Yuji Boku', serif;
+ font-size: 8ch;
+ font-weight: 20px solid;
+ 
+}
+#b1{
+    margin-left: 10px;
+}
